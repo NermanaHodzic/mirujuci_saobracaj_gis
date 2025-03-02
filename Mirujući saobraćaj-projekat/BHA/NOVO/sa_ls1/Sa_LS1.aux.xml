@@ -1,0 +1,41 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Description>sa_ls1c1</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="2">
+    <Description>sa_ls1c2</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="3">
+    <Description>sa_ls1c3</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="4">
+    <Description>sa_ls1c4</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="5">
+    <Description>sa_ls1c5</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="6">
+    <Description>sa_ls1c6</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="7">
+    <Description>sa_ls1c7</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="8">
+    <Description>sa_ls1c8</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="9">
+    <Description>sa_ls1c9</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="10">
+    <Description>sa_ls1c10</Description>
+  </PAMRasterBand>
+  <PAMRasterBand band="11">
+    <Description>sa_ls1c11</Description>
+  </PAMRasterBand>
+</PAMDataset>

@@ -1,0 +1,18 @@
+
+------------------- TRACEBACK -------------------------
+Module "Err  " Message  -1: file ".\err.c   " line 545
+Module "CBlok" Message  -1: file "..\avenue\cblok.c" line 1552
+Module "VTab " Message  -1: file "..\vtab\vtab.c" line 4070
+Module "VTab " Message  -1: file "..\vtab\vtab.c" line 4105
+Module "CBlok" Message  -1: file "..\avenue\cblok.c" line 1552
+Module "Script" Message  -1: file "..\avenue\script.c" line 151
+Module "VTab " Message  -1: file "..\vtab\vtab.c" line 4772
+Module "FSrc " Message  -1: file "..\fsrc\fsrc.c" line 2292
+Module "ODB  " Message  -1: file "..\avfile\odb.c" line 1249
+Module "ODB  " Message  -1: file "..\avfile\odb.c" line 1387
+Module "CBlok" Message  -1: file "..\avenue\cblok.c" line 1552
+Module "CBlok" Message  -1: file "..\avenue\cblok.c" line 1552
+Module "Script" Message  -1: file "..\avenue\script.c" line 151
+Module "Err  " Message  -1: file ".\err.c   " line 2009
+-------------------------------------------------------
+FATAL ERROR     Failure during error recovery

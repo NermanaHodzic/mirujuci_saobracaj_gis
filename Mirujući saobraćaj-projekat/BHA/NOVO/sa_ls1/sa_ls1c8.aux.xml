@@ -1,0 +1,6 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>sa_ls1c8</Description>
+    <NoDataValue>-3.27680000000000E+004</NoDataValue>
+  </PAMRasterBand>
+</PAMDataset>
